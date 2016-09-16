@@ -13,7 +13,9 @@
 Seattle area and their whereabouts in order to reunite owners with their lost pets. This app was created by a team of 3 UX designers and 3 android developers as part of a 24-hour hackathon using Socrata APIs. The submission was the winning entry in the hackathon, with the judges particularly impressed by the completeness of a project developed in such a short time frame.
 
 The screenshots above show three different scenarios within the application.
- - The first is the main
+ - The first is the main screen of the application, from where the users can navigate through the apps main features.
+ - The second is a view of a list of lost dogs pulled from the Socrate Seattle lost and found pets API, with some of the most relevant information for easy viewing. The list can be searched through using the search bar at the top of the screen - matching search terms to all fields on each item view.
+ - The third shows the detail screen reached from clicking an individual item. This contains more information about each animal, along with details of where the animal is located when the 'That's my pet!' button is pressed.
 
 ##Contributors
 
